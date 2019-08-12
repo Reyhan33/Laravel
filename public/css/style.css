@@ -1,0 +1,13 @@
+.login-page {
+        background-image: url("../https://images.pexels.com/photos/1043506/pexels-photo-1043506.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+}
+
+.login-box
+{
+    background:rgba(0, 0, 0, 0.);
+    box-shadow: 0px 0px 10px 6px;
+    border-radius: 10px;
+    width:300px;
+    margin:15px auto;
+    padding:20px;
+}
